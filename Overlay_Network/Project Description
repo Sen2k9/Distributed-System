@@ -1,0 +1,19 @@
+Project Description:
+
+This is a model of an overlay network in simulation. 
+
+This simulation displays visually both the ""real" network and the overlay. 
+
+Simulation generates at least 100 nodes for the "real" network. 
+
+Each node of the "real" network must be connected randomly to at least 25% of the other "real" nodes. 
+
+The overlay network must connect every node in a structured manner using super peers. 
+
+These super peers would divide the real network into regions such that there would be one super peer per region. 
+
+The number of super peers is to be entered at runtime and the simulation should permit updates to the number of nodes. 
+
+This simulation should allow the user to request a route between real nodes; and the program should output the route between the nodes for both the real and overlay networks.
+
+The simulation should route from source data work node to a super peer near the source to a super peer near the destination to the destination. 
