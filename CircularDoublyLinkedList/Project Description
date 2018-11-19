@@ -1,0 +1,17 @@
+Project Description for CHORD SYSTEM:
+
+Implementing a working model of CHORD SYSTEM using java. Model must support the addition and deletion of nodes. 
+
+Additional Requirements:
+
+1. Model should start with a single Node.
+
+2. Model should allow the user to interact with the working model to select the function to be accomplished (deletion or addition).
+
+3. Program must provide some visual display of the CHORD SYSTEM. 
+
+4. Specific to the addition function... the function of addition must select a random point in the CHORD to add the new node.
+
+5. The result of the a lookup.
+
+6. CHORD system works by visually showing the "lookup" as it progresses through the algorithm.
