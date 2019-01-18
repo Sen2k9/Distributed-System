@@ -3,7 +3,7 @@ This repository consists of several projects done on Distributed System. Below a
 
 Find Project done on Distributed Chord System using Java in CircularDoublyLinkedList folder
 
-Find Project done on Overlay network using Python in Overlay_network folder
+Find Project done on Overlay network using Python in Overlay_Network folder
 
 Find Project done on CAN system using Python in CAN System folder
 
